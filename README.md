@@ -5,7 +5,7 @@
  | |  | | | |  ___/ '__/ _ \ / __/ __/ _ \/ __/ __| |    / _ \ / _` |/ _` |/ _ \ '__|
  | |__| | | | |   | | | (_) | (_| (_|  __/\__ \__ \ |___| (_) | (_| | (_| |  __/ |   
  |_____/|_|_|_|   |_|  \___/ \___\___\___||___/___/______\___/ \__,_|\__,_|\___|_|   
-Windows DLL injection tool for research, reverse engineering and security studies.
+Minimalistic windows DLL injection tool for research, reverse engineering and security studies.
 ```
 
 ## Demo
